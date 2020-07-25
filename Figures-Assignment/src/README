@@ -1,0 +1,72 @@
+Enter the size of figure (odd number): 8
+
+Invalid figure size - must be an odd number 
+
+Re-enter the size of figure: 9
+ 
+MENU:
+1. Print box
+2. Print diamond
+3. Print X
+4. Quit
+
+Please select an option: 1
+ 
+XXXXXXXXX
+XXXXXXXXX
+XXXXXXXXX
+XXXXXXXXX
+XXXXXXXXX
+XXXXXXXXX
+XXXXXXXXX
+XXXXXXXXX
+XXXXXXXXX
+
+
+MENU:
+1. Print box
+2. Print diamond
+3. Print X
+4. Quit
+
+Please select an option: 2
+ 
+    XX
+   X  X
+  X    X
+ X      X
+X        X
+ X      X
+  X    X
+   X  X
+    XX
+
+
+MENU:
+1. Print box
+2. Print diamond
+3. Print X
+4. Quit
+
+Please select an option: 3
+ 
+X       X
+ X     X 
+  X   X  
+   X X   
+    X    
+   X X   
+  X   X  
+ X     X 
+X       X
+
+
+MENU:
+1. Print box
+2. Print diamond
+3. Print X
+4. Quit
+
+Please select an option: 4
+ 
+Good bye!
