@@ -7,7 +7,9 @@ public class Figures {
     private static int size = 0;
     
     public static void main (String[]args) {
-    	
+	
+    	System.out.println ("Programming Fundamentals\nNAME: Michael Ryan Manning\nPROGRAMMING ASSIGNMENT 2");
+	
     	//Ask for user input.
         System.out.println ("Enter the size of figure (odd number): ");
         
